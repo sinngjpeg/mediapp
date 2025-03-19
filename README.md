@@ -19,10 +19,6 @@ A plataforma permite a gestão de consultas médicas, oferecendo acesso para **p
 - **TypeScript** - Superset do JavaScript para tipagem estática.
 - **Mongoose** - Biblioteca para modelagem de dados no MongoDB.
 
-## 📌 Contribuição
-Sinta-se à vontade para abrir issues e enviar pull requests. Toda contribuição é bem-vinda! 😊
-
-📜 Licença
-Este projeto está sob a licença MIT - consulte o arquivo LICENSE para mais detalhes.
+---
 
 Desenvolvido com 💙 para fins acadêmicos.
